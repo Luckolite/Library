@@ -14,7 +14,9 @@
       "summary": "Read, play, and shape your sheet music.",
       "description": "Keep your sheet music together, follow playback, and adjust scores for the way you practice.",
       "releaseNotes": "Current published build: 1.18.280.",
-      "apkUrl": "https://github.com/Luckolite/Library/releases/download/apps-2026-09-24/Music-Sheets.apk"
+      "apkUrl": "https://github.com/Luckolite/Library/releases/download/apps-2026-09-24/Music-Sheets.apk",
+      "iconUrl": "https://github.com/Luckolite/Library/releases/download/apps-2026-09-24/com.musicsheets.app-icon-6b8a2388d8c2.png",
+      "featureGraphicUrl": "https://github.com/Luckolite/Library/releases/download/apps-2026-09-24/com.musicsheets.app-feature-696ab720a58f.png"
     },
     {
       "packageName": "com.michaelstollings.freshasync",
