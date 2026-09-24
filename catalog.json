@@ -48,7 +48,9 @@
       "summary": "Notice your blink and eye-movement patterns.",
       "description": "Explore visible eye patterns with your front camera. Processing stays on your phone, and camera images are not saved. Observations are not a diagnosis.",
       "releaseNotes": "Current published build: 1.7.18.",
-      "apkUrl": "https://github.com/Luckolite/Library/releases/download/apps-2026-09-24/Neuroception.apk"
+      "apkUrl": "https://github.com/Luckolite/Library/releases/download/apps-2026-09-24/Neuroception.apk",
+      "iconUrl": "https://github.com/Luckolite/Library/releases/download/apps-2026-09-24/com.neuroception.app-icon-415caf78e396.png",
+      "featureGraphicUrl": "https://github.com/Luckolite/Library/releases/download/apps-2026-09-24/com.neuroception.app-feature-2a7b090140ab.png"
     },
     {
       "packageName": "com.luckolite.library",
