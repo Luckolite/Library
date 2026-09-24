@@ -31,7 +31,9 @@
       "summary": "Bring your appointments into your calendar.",
       "description": "Sync your Fresha Partner appointments to an Android calendar. Keep appointment history, explore trends, and write optional SOAP notes. An independent personal tool, not a Fresha product.",
       "releaseNotes": "Fixed launcher icon cropping. Includes the latest sync, widget, and appointment updates.",
-      "apkUrl": "https://github.com/Luckolite/Library/releases/download/Fresha-Sync-1.8.34-b59938cad958/Fresha-Sync.apk"
+      "apkUrl": "https://github.com/Luckolite/Library/releases/download/Fresha-Sync-1.8.34-b59938cad958/Fresha-Sync.apk",
+      "iconUrl": "https://github.com/Luckolite/Library/releases/download/Fresha-Sync-1.8.34-b59938cad958/com.michaelstollings.freshasync-icon-813155a8f012.png",
+      "featureGraphicUrl": "https://github.com/Luckolite/Library/releases/download/Fresha-Sync-1.8.34-b59938cad958/com.michaelstollings.freshasync-feature-fe83d3a7b2ba.png"
     },
     {
       "packageName": "com.neuroception.app",
