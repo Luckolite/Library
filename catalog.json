@@ -54,19 +54,19 @@
     },
     {
       "packageName": "com.luckolite.library",
-      "versionCode": 7,
-      "versionName": "1.1.4",
+      "versionCode": 8,
+      "versionName": "1.1.5",
       "minSdk": 26,
-      "size": 3941050,
-      "sha256": "75627650b6feb259dfba6371b759d5c204921ca541d841837531c92344d045af",
+      "size": 3941218,
+      "sha256": "2da0e217fd51f6cf9a2dae647dee234a166b2ea2ed48cbd60aa41ec1aed56771",
       "certificateSha256": "2f466e27e3268f82f18675dd5df2f10898e892067081ae6f697ace956d21c2ff",
       "name": "Library",
       "category": "Your collection",
       "summary": "Keep your apps together and up to date.",
       "description": "Browse this collection, install the apps you want, and check for updates.",
-      "releaseNotes": "The app list and artwork now load entirely from the repository catalog; refreshed entries remain cached offline.",
-      "apkUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.4-75627650b6/Library.apk",
-      "iconUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.4-75627650b6/com.luckolite.library-icon-d0607915ce08.png",
+      "releaseNotes": "Fixed scrolling and pull-to-refresh when a drag starts on an app tile.",
+      "apkUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.5-2da0e217fd/Library.apk",
+      "iconUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.5-2da0e217fd/com.luckolite.library-icon-d0607915ce08.png",
       "featureGraphicUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.4-75627650b6/com.luckolite.library-feature-34388d009245.png"
     }
   ]
