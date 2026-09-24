@@ -48,18 +48,18 @@
     },
     {
       "packageName": "com.luckolite.library",
-      "versionCode": 1,
-      "versionName": "1.0.0",
+      "versionCode": 2,
+      "versionName": "1.0.1",
       "minSdk": 26,
-      "size": 8933947,
-      "sha256": "506194619b0c1ccffa64b91e83e7f899da2b1ee9a89877bc03aba6a055bb31ca",
+      "size": 8934115,
+      "sha256": "707902b403257228028e63977d453ec366a05835c7e0005791c2222dd2d65e5f",
       "certificateSha256": "2f466e27e3268f82f18675dd5df2f10898e892067081ae6f697ace956d21c2ff",
       "name": "Library",
       "category": "Your collection",
       "summary": "Keep your apps together and up to date.",
       "description": "Browse this collection, install the apps you want, and check for updates.",
-      "releaseNotes": "The first Library release.",
-      "apkUrl": "https://github.com/Luckolite/Library/releases/download/apps-2026-09-24/Library.apk"
+      "releaseNotes": "Refined large-text layouts and Wi-Fi-only downloads. Includes app updates, verified installs, and a configurable source.",
+      "apkUrl": "https://github.com/Luckolite/Library/releases/download/untagged-dddf6074a50c9a89fbd7/Library.apk"
     }
   ]
 }
