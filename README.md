@@ -12,6 +12,6 @@ Open the downloaded APK to install Library. Android may ask you to allow install
 
 Library checks for updates, and Android asks you to confirm each installation. You can change the repository in **Settings → App source** if this one ever moves.
 
-Requires Android 8.0 or later. You can also download individual APKs from [Releases](https://github.com/Luckolite/Library/releases/latest).
+Requires Android 8.0 or later. You can also download individual APKs from [Releases](https://github.com/Luckolite/Library/releases).
 
 This repository contains downloads and their catalog. No app source code is hosted here.
