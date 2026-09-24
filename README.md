@@ -9,6 +9,7 @@ The catalog supplies each app's current icon and detail artwork alongside its AP
 - **Music Sheets** — sheet music, playback, and practice tools.
 - **Fresha Sync** — bring Fresha Partner appointments into your Android calendar.
 - **Neuroception** — explore blink and eye-movement patterns on your phone.
+- **Tracker** — a private cannabis journal for logging use and exploring patterns.
 
 Open the downloaded APK to install Library. Android may ask you to allow installs from your browser. When you install your first app through Library, allow installs from Library too.
 
