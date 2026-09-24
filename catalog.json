@@ -53,6 +53,23 @@
       "featureGraphicUrl": "https://github.com/Luckolite/Library/releases/download/apps-2026-09-24/com.neuroception.app-feature-2a7b090140ab.png"
     },
     {
+      "packageName": "com.tracker.app",
+      "versionCode": 85,
+      "versionName": "2.4.6",
+      "minSdk": 26,
+      "size": 2243175,
+      "sha256": "f315eaa45b9c4c6f6eddb5869ad975fc719c767856fd2c6dd6f9be819e8944b4",
+      "certificateSha256": "97de3185102159035e4195535c5e82810cc63029e079a0664d9994ce7890b41d",
+      "name": "Tracker",
+      "category": "Cannabis journal",
+      "summary": "Track cannabis use, reasons, and effects privately.",
+      "description": "Keep a private, on-device journal of what you used, why, and how it felt. Explore patterns, compare strains, and export your records. Optional local-network sync works with Tracker Sync Hub.",
+      "releaseNotes": "Tracker 2.4.6 adds dark, readable PDF exports for charts and journal pages.",
+      "apkUrl": "https://github.com/Luckolite/Library/releases/download/Tracker-2.4.6-f315eaa45b/Tracker.apk",
+      "iconUrl": "https://github.com/Luckolite/Library/releases/download/Tracker-2.4.6-f315eaa45b/com.tracker.app-icon-64e4b5490366.png",
+      "featureGraphicUrl": "https://github.com/Luckolite/Library/releases/download/Tracker-2.4.6-f315eaa45b/com.tracker.app-feature-bb3d664d2571.png"
+    },
+    {
       "packageName": "com.luckolite.library",
       "versionCode": 8,
       "versionName": "1.1.5",
