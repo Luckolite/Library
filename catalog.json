@@ -54,20 +54,20 @@
     },
     {
       "packageName": "com.luckolite.library",
-      "versionCode": 5,
-      "versionName": "1.1.2",
+      "versionCode": 6,
+      "versionName": "1.1.3",
       "minSdk": 26,
-      "size": 12451447,
-      "sha256": "b4574a8ec2e777e6711c989ce204d9435168eb7cb63d72ecebf03bec5687d1c4",
+      "size": 3942783,
+      "sha256": "6cc84455cea90503f8f8d89d7484805f5b06310a6f666637e8b53195ab724eb4",
       "certificateSha256": "2f466e27e3268f82f18675dd5df2f10898e892067081ae6f697ace956d21c2ff",
       "name": "Library",
       "category": "Your collection",
       "summary": "Keep your apps together and up to date.",
       "description": "Browse this collection, install the apps you want, and check for updates.",
-      "releaseNotes": "Removed the large collection banner so apps appear directly below the toolbar. Improved pull-down refresh from app tiles.",
-      "apkUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.2-b4574a8ec2/Library.apk",
-      "iconUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.2-b4574a8ec2/com.luckolite.library-icon-d0607915ce08.png",
-      "featureGraphicUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.2-b4574a8ec2/com.luckolite.library-feature-34388d009245.png"
+      "releaseNotes": "App icons and detail artwork now come from the Library catalog and update with each published release.",
+      "apkUrl": "https://github.com/Luckolite/Library/releases/download/untagged-f6fe9d907090327e5c57/Library.apk",
+      "iconUrl": "https://github.com/Luckolite/Library/releases/download/untagged-f6fe9d907090327e5c57/com.luckolite.library-icon-d0607915ce08.png",
+      "featureGraphicUrl": "https://github.com/Luckolite/Library/releases/download/untagged-f6fe9d907090327e5c57/com.luckolite.library-feature-34388d009245.png"
     }
   ]
 }
