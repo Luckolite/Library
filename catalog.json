@@ -48,18 +48,18 @@
     },
     {
       "packageName": "com.luckolite.library",
-      "versionCode": 3,
-      "versionName": "1.1.0",
+      "versionCode": 4,
+      "versionName": "1.1.1",
       "minSdk": 26,
-      "size": 12451307,
-      "sha256": "52d3257530814ef25cbe3b51ede94007ab0d764eca1450ab88a66c29c1944adb",
+      "size": 12451531,
+      "sha256": "844bb7d1b017ee778dd8e445749ac66f44c7b858ae8d058500838f87a128ee19",
       "certificateSha256": "2f466e27e3268f82f18675dd5df2f10898e892067081ae6f697ace956d21c2ff",
       "name": "Library",
       "category": "Your collection",
       "summary": "Keep your apps together and up to date.",
       "description": "Browse this collection, install the apps you want, and check for updates.",
-      "releaseNotes": "New two-column app grid with original icons, store-style detail pages, and catalog-delivered artwork for future apps.",
-      "apkUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.0-52d3257530/Library.apk"
+      "releaseNotes": "Removed the home filter and manual check panel. Pull down from the top of the app grid to refresh the catalog.",
+      "apkUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.1-844bb7d1b0/Library.apk"
     }
   ]
 }
