@@ -65,9 +65,9 @@
       "summary": "Keep your apps together and up to date.",
       "description": "Browse this collection, install the apps you want, and check for updates.",
       "releaseNotes": "App icons and detail artwork now come from the Library catalog and update with each published release.",
-      "apkUrl": "https://github.com/Luckolite/Library/releases/download/untagged-f6fe9d907090327e5c57/Library.apk",
-      "iconUrl": "https://github.com/Luckolite/Library/releases/download/untagged-f6fe9d907090327e5c57/com.luckolite.library-icon-d0607915ce08.png",
-      "featureGraphicUrl": "https://github.com/Luckolite/Library/releases/download/untagged-f6fe9d907090327e5c57/com.luckolite.library-feature-34388d009245.png"
+      "apkUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.3-6cc84455ce/Library.apk",
+      "iconUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.3-6cc84455ce/com.luckolite.library-icon-d0607915ce08.png",
+      "featureGraphicUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.3-6cc84455ce/com.luckolite.library-feature-34388d009245.png"
     }
   ]
 }
