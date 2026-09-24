@@ -65,7 +65,9 @@
       "summary": "Keep your apps together and up to date.",
       "description": "Browse this collection, install the apps you want, and check for updates.",
       "releaseNotes": "Removed the large collection banner so apps appear directly below the toolbar. Improved pull-down refresh from app tiles.",
-      "apkUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.2-b4574a8ec2/Library.apk"
+      "apkUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.2-b4574a8ec2/Library.apk",
+      "iconUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.2-b4574a8ec2/com.luckolite.library-icon-d0607915ce08.png",
+      "featureGraphicUrl": "https://github.com/Luckolite/Library/releases/download/Library-1.1.2-b4574a8ec2/com.luckolite.library-feature-34388d009245.png"
     }
   ]
 }
